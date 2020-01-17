@@ -6,7 +6,7 @@ Installation Step :
 1) git clone https://github.com/anonymoushack47/evileyes
 
 
-2) cd Termux-Banner
+2) cd evileyes
 
 
 3) chmod +x requirement.sh
